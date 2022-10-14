@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Alexander Lin!
+- 👋 Hi, My name is Alexander Lin
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning web development and Java
 - 💞 I’m looking to collaborate with other programmers to further extend my coding skills and hopes to work for a company that needs inovative programmers. 
